@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mandosai1227
-- 👀 I’m interested in code and design.
+- 👀 I’m interested in code , design , mathmatic.
 - 🌱 I’m currently learning C, python and so on.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
